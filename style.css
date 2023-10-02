@@ -8,6 +8,7 @@ body{
   background-color: #f7f7f7;
   color: black;
 }
+/* navigation bar */
 .header{
   display:flex;
   background:url(img/scroll1.jpg);
@@ -88,6 +89,7 @@ transition: url(img/logo.png);
   background:transparent;
   
 }
+/* Banner 1 */
 .banner img{
   position: relative;
   margin-top: 100px;
@@ -128,6 +130,7 @@ transition: url(img/logo.png);
 .banner2{
   background:transparent;
 }
+/* Banner 2 */
 .banner2 img{
   position: relative;
   margin-top: 60px;
@@ -156,6 +159,7 @@ transition: url(img/logo.png);
   font-size: 30px;
   color: #fff;
 }
+/* Banner 2 */
 .discover{
   margin-top: 97px;
 }
@@ -290,6 +294,7 @@ transition: url(img/logo.png);
   background: transparent;
   font-size: 28px;
 }
+/* Footer */
 .footer-container{
   width: 60%;
  justify-content: space-between;
